@@ -1,0 +1,12 @@
+{
+  "name": "command-injection-lab",
+  "version": "1.0.0",
+  "description": "Laboratório básico de Command Injection com Node.js e Cowsay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
