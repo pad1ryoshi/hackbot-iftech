@@ -21,4 +21,4 @@ Repositório com o material utilizado para a apresentação "Construindo um Hack
 
 ## Slides
 
-- 
+- https://canva.link/1kon1eeb5jn92g6
