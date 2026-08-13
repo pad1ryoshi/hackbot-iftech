@@ -20,6 +20,7 @@ Repositório com o material utilizado para a apresentação "Construindo um Hack
 - https://theori.io/blog/building-effective-llm-agents-63446
 - https://github.com/caioluders/talks/blob/main/VibeHacking%20%E2%80%94%20DunaSec%202026.pdf
 - https://www.youtube.com/watch?v=U3bZavG8qQY
+- https://www.youtube.com/watch?v=FNYA82Fn5m4
 
 ## Slides
 
