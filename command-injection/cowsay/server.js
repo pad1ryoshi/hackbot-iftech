@@ -44,24 +44,6 @@ const server = http.createServer((req, res) => {
         return;
     }
 
-    /*
-     * VULNERABILIDADE INTENCIONAL:
-     *
-     * A entrada fornecida pelo usuário é concatenada
-     * diretamente no comando executado pelo shell.
-     *
-     * Exemplo:
-     *
-     * say=hello
-     * -> cowsay "hello"
-     *
-     * say=hello; whoami
-     * -> cowsay "hello"; whoami
-     *
-     * say=hello; cat flag.txt
-     * -> cowsay "hello"; cat flag.txt
-     */
-
     const command = `cowsay "${say}"`;
 
     console.log(`[COMMAND] ${command}`);
